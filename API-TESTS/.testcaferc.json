@@ -1,0 +1,9 @@
+{
+    "src": "testcafe/",
+    "browsers": [
+      "chrome"
+    ],
+    "concurrency": 1,
+    "stopOnFirstFail": true,
+    "skipJsErrors": true
+  }

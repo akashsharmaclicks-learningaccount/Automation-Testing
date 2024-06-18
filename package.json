@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "testcafe": "^3.6.1",
+    "typescript": "^5.4.5"
+  }
+}
