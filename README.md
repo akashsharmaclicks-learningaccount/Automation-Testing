@@ -23,7 +23,7 @@ In this project, I explored TestCafe's capabilities to automate API tests effect
 
 Check out the video walkthrough where I demonstrate the entire process, from designing the APIs collection on Postman to implementing the functionality and running the automation scripts.
 
-[Watch the Video](https://lnkd.in/gFvB2EiR)
+[Watch the Video](https://www.linkedin.com/posts/akash-sharma-711545122_apitesting-automation-testcafe-activity-7208852160761987072-gkZl?utm_source=share&utm_medium=member_desktop)
 
 ## Getting Started
 
